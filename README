@@ -1,0 +1,3 @@
+Currently works with spacemacs develop branch.
+
+Install ag for grep that respects .git and .gitignore
